@@ -11,7 +11,7 @@ abstract: >-
   via a ring-shaped structure with three complementary consistency feedback mechanisms. ReLoop encourages models
   to "see twice and think backwards", effectively mitigating hallucinations and improving semantic reliability
   in multimodal reasoning. Extensive experiments demonstrate significant improvements across multiple benchmarks.
-cover:          /assets/images/photos/reloop.png
+cover:          /assets/images/photos/reloop.jpg
 authors:
 - "Jianjiang Yang* (first author)"
 - Yanshu Li
