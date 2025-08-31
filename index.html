@@ -5,6 +5,11 @@ navbar_title: Home
 ---
 {% include widgets/profile_card.html %}
 
+{% if site.data.profile.awards %}
+  {% include widgets/awards_card.html %}
+{% endif %}
+
+
 {% include widgets/debug_repo_name.html %}
 
 {% include widgets/debug_url.html %}
