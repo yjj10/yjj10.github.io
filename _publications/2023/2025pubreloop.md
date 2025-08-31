@@ -7,7 +7,7 @@ pub:            "EMNLP 2025 Findings (Accepted)"
 pub_date:       "2025"
 abstract: >-
   Multimodal Large Language Models (MLLMs) remain vulnerable to hallucinations that contradict or misrepresent
-  input semantics. We propose ReLoop*, a closed-loop training framework that enforces cross-modal consistency
+  input semantics. We propose "ReLoop", a closed-loop training framework that enforces cross-modal consistency
   via a ring-shaped structure with three complementary consistency feedback mechanisms. ReLoop encourages models
   to "see twice and think backwards", effectively mitigating hallucinations and improving semantic reliability
   in multimodal reasoning. Extensive experiments demonstrate significant improvements across multiple benchmarks.
