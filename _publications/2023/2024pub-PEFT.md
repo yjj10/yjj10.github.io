@@ -11,7 +11,7 @@ abstract: >-
   provide insights into widely used datasets and applications.  
   The survey has already received **130+ citations** and the associated GitHub repository has earned
   **570+ stars**, highlighting its significant impact in both academia and practice.
-cover:          /assets/images/photos/peft-survey.png
+cover:          /assets/images/photos/peft-survey.jpg
 authors:
 - Yi Xin (co-first author)
 - Jianjiang Yang (co-first author)*
