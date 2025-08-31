@@ -7,7 +7,7 @@ pub_date:       "2025"
 abstract: >-
   Despite remarkable progress in image quality and fidelity, text-to-image (T2I) diffusion models continue to
   exhibit persistent hallucinations where generated outputs subtly or significantly diverge from the intended
-  semantics. We propose **Tri-Space Tension Modeling (TM-ARC)**, which reinterprets hallucinations as trajectory
+  semantics. We propose "Tri-Space Tension Modeling (TM-ARC)", which reinterprets hallucinations as trajectory
   drift in a latent alignment space. By quantifying semantic coherence, structural alignment, and knowledge grounding
   via a dynamic Alignment Risk Code (ARC), TM-ARC identifies dominant failure axes and applies targeted,
   axis-specific interventions. This framework reduces hallucination without sacrificing diversity or fidelity,
