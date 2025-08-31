@@ -2,3 +2,12 @@
   bold: true
   url: "https://scholar.google.com/citations?user=lCYsNwIAAAAJ&hl=zh-CN"
   email: "edisyonang109@gmail.com"
+
+
+"Jianjiang Yang* (first author)":
+  bold: true
+  url: https://scholar.google.com/citations?user=lCYsNwIAAAAJ&hl=zh-CN
+
+"Jianjiang Yang* (co-first author)":
+  bold: true
+  url: https://scholar.google.com/citations?user=lCYsNwIAAAAJ&hl=zh-CN
