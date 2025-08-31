@@ -14,7 +14,7 @@ abstract: >-
 cover:          /assets/images/photos/peft-survey.jpg
 authors:
 - Yi Xin (co-first author)
-- Jianjiang Yang (co-first author)*
+- Jianjiang Yang* (co-first author)
 - Siqi Luo
 - Yuntao Du
 - Qi Qin
