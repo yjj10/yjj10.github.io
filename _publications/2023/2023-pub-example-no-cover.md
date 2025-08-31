@@ -1,22 +1,25 @@
 ---
-title:          "Publication without cover image"
-date:           2023-01-1 00:01:00 +0800
-selected:       false
-pub:            "International Conference on Learning Representations (ICLR)"
-# pub_pre:        "Submitted to "
-# pub_post:       'Under review.'
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
-pub_date:       "2023"
-
+title:          "TACO: Enhancing Multimodal In-context Learning via Task Mapping-Guided Sequence Configuration"
+date:           2025-08-21 00:01:00 +0800
+selected:       true
+pub:            "EMNLP 2025 Main Conference (Accepted)"
+pub_date:       "2025"
 abstract: >-
-  When the cover image is not provided, it will generate a random colorful bubble images as the cover image using the <code>bubble_visual_hash.js</code> script.
-# cover:          /assets/images/covers/cover3.jpg
+  Multimodal in-context learning (ICL) has emerged as a key mechanism for harnessing the capabilities of large
+  vision-language models (LVLMs). However, its effectiveness remains highly sensitive to the quality of input
+  sequences. We propose **TACO**, a lightweight transformer-based model guided by task mapping, which dynamically
+  configures in-context sequences via task-aware attention. TACO enables a bidirectional synergy between
+  sequence construction and task reasoning, consistently surpassing baselines on five LVLMs and nine benchmarks.
+  These results highlight task mapping as a valuable perspective for improving multimodal ICL.
+cover:          /assets/images/photos/taco.jpg
 authors:
-  - Your Name*#
-  - James Wang*
-  - Some Other Name
-  - John Doe
+- "Yanshu Li (co-first author)"
+- "Jianjiang Yang (co-first author)*"
+- "Tian Yun"
+- "Pinyuan Feng"
+- "Jinfa Huang"
+- "Ruixiang Tang"
 links:
-  Code: https://github.com/luost26/bubble-visual-hash
-  Demo: https://luost26.github.io/bubble-visual-hash
+  Paper (arXiv): https://arxiv.org/abs/2505.17098
+  Conference: https://2025.emnlp.org/
 ---
