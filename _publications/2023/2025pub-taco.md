@@ -7,7 +7,7 @@ pub_date:       "2025"
 abstract: >-
   Multimodal in-context learning (ICL) has emerged as a key mechanism for harnessing the capabilities of large
   vision-language models (LVLMs). However, its effectiveness remains highly sensitive to the quality of input
-  sequences. We propose **TACO**, a lightweight transformer-based model guided by task mapping, which dynamically
+  sequences. We propose "TACO", a lightweight transformer-based model guided by task mapping, which dynamically
   configures in-context sequences via task-aware attention. TACO enables a bidirectional synergy between
   sequence construction and task reasoning, consistently surpassing baselines on five LVLMs and nine benchmarks.
   These results highlight task mapping as a valuable perspective for improving multimodal ICL.
