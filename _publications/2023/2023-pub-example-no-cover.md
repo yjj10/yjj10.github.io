@@ -21,5 +21,5 @@ authors:
 - "Ruixiang Tang"
 links:
   Paper (arXiv): https://arxiv.org/abs/2505.17098
-  Conference: https://2025.emnlp.org/
+ 
 ---
