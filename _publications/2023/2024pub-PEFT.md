@@ -9,8 +9,8 @@ abstract: >-
   for pre-trained vision models, systematically reviewing methodologies and introducing the V-PEFT Bench benchmark.
   We categorize existing approaches into addition-based, partial-based, unified-based, and multi-task tuning, and
   provide insights into widely used datasets and applications.  
-  The survey has already received **130+ citations** and the associated GitHub repository has earned
-  **570+ stars**, highlighting its significant impact in both academia and practice.
+  The survey has already received 130+ citations and the associated GitHub repository has earned
+  570+ stars, highlighting its significant impact in both academia and practice.
 cover:          /assets/images/photos/peft-survey.jpg
 authors:
 - Yi Xin (co-first author)
@@ -26,7 +26,7 @@ authors:
 - Ming-Hsuan Yang
 - Xiaohong Liu
 links:
-  Paper (arXiv): https://arxiv.org/abs/2402.02242
+  Paper (arXiv)130+ citations: https://arxiv.org/abs/2402.02242
   DOI: https://doi.org/10.48550/arXiv.2402.02242
   GitHub (⭐570+): https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning
 ---
