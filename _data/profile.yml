@@ -19,12 +19,23 @@ github: edi1009
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a researcher in Artificial Intelligence, working on multimodal large language models (MLLMs).
+    I am a researcher in Artificial Intelligence, with a primary focus on 
+    <b>multimodal large language models (MLLMs)</b> and <b>intelligent agents</b>.
   </p>
+
   <p>
-    My research focuses on parameter-efficient fine-tuning (PEFT) and continual learning (CL) 
-    as methods to enhance adaptability, efficiency, and robustness of large-scale multimodal systems.
-    I will join the University of Bristol as a postgraduate student in Computer Science.
+    My research emphasizes <b>parameter-efficient fine-tuning (PEFT)</b> and 
+    <b>continual learning (CL)</b>, integrating these methods into principled frameworks 
+    for large-scale model development. Through this work, I aim to establish 
+    training methodologies that enable the long-term evolution and adaptability 
+    of multimodal systems.
+  </p>
+
+  <p>
+    Looking ahead, I am committed to advancing the broader vision of 
+    <b>Human-centered AI</b>, developing models that not only achieve adaptability 
+    and reliability but also foster interpretability and deep alignment with 
+    human values and decision-making processes.
   </p>
 
 portrait_url: /assets/images/photos/yang.jpg
