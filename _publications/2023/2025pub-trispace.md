@@ -3,7 +3,7 @@ title:          "Taming the Tri-Space Tension: ARC-Guided Hallucination Modeling
 date:           2025-07-24 00:01:00 +0800
 selected:       true
 pub:            "AAAI 2026 (Under Review)"
-pub_date:       "2025"
+pub_date:       "2025.7.15"
 abstract: >-
   Despite remarkable progress in image quality and fidelity, text-to-image (T2I) diffusion models continue to
   exhibit persistent hallucinations where generated outputs subtly or significantly diverge from the intended
