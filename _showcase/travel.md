@@ -1,12 +1,12 @@
 ---
+title: Travel
 show: true
-width: 12
-date: 2025-08-31 00:01:00 +0800
-group: Travel
 ---
 
-![Norway](/assets/images/travel/norway.jpg)  
-![London](/assets/images/travel/london.jpg)  
-![Kyoto](/assets/images/travel/kyoto.jpg)  
-![Paris](/assets/images/travel/paris.jpg)  
-![Italy](/assets/images/travel/italy.jpg)  
+<div class="travel-gallery">
+  <img src="/assets/images/travel/norway.jpg" alt="Norway" width="300">
+  <img src="/assets/images/travel/london.jpg" alt="London" width="300">
+  <img src="/assets/images/travel/kyoto.jpg" alt="Kyoto" width="300">
+  <img src="/assets/images/travel/paris.jpg" alt="Paris" width="300">
+  <img src="/assets/images/travel/italy.jpg" alt="Italy" width="300">
+</div>
