@@ -14,7 +14,7 @@ abstract: >-
   providing a unified and interpretable approach for controllable text-to-image generation.
 cover:          /assets/images/photos/trispace.jpg
 authors:
-- "**Jianjiang Yang** (first author)"
+- "Jianjiang Yang* (first author)"
 - Ziyan Huang
 - Yanshu Li
 - Huaiyuan Yao
