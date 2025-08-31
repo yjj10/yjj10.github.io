@@ -1,0 +1,20 @@
+---
+title: "CognitionLight: Continue, Rethink, or Rollback? Signaling for Persona-Aware Reasoning in Intelligent Agents"
+date: 2025-07-24 00:01:00 +0800
+selected: true
+pub: "AAAI 2026 (Under Review)"
+pub_date: "2025"
+abstract: >-
+  Inspired by human meta-reasoning, this work introduces **CognitionLight**, a cognitively inspired control plugin 
+  that regulates agent behavior via symbolic “traffic-light” signals (Continue, Switch Persona, Rollback). 
+  CognitionLight adaptively guides reasoning strategies in multi-turn scenarios, mitigating hallucinations and 
+  enabling adaptive persona-aware reasoning. Experiments on multi-turn reasoning benchmarks show that 
+  CognitionLight improves response consistency, reduces hallucinations, and enhances flexibility in dynamic agent behavior.
+cover: /assets/images/photos/cognitionlight.jpg
+authors:
+- Jianjiang Yang* (first author)
+- Ziyan Huang
+- Yanshu Li
+- Da Peng
+- Huaiyuan Yao
+---
