@@ -14,7 +14,7 @@ abstract: >-
 cover:          /assets/images/photos/taco.jpg
 authors:
 - "Yanshu Li (co-first author)"
-- "Jianjiang Yang *(co-first author)"
+- "Jianjiang Yang* (co-first author)"
 - "Tian Yun"
 - "Pinyuan Feng"
 - "Jinfa Huang"
