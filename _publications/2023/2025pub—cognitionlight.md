@@ -2,7 +2,7 @@
 title: "CognitionLight: Continue, Rethink, or Rollback? Signaling for Persona-Aware Reasoning in Intelligent Agents"
 date: 2025-07-24 00:01:00 +0800
 selected: true
-pub: "AAAI 2026 (Under Review)"
+pub: "ICLR 2026 (Under Review)"
 pub_date: "2025"
 abstract: >-
   Inspired by human meta-reasoning, this work introduces "CognitionLight", a cognitively inspired control plugin 
@@ -12,7 +12,7 @@ abstract: >-
   CognitionLight improves response consistency, reduces hallucinations, and enhances flexibility in dynamic agent behavior.
 cover: /assets/images/photos/cognitionlight.jpg
 authors:
-- Jianjiang Yang* (first author)
+- Jianjiang Yang* 
 - Ziyan Huang
 - Yanshu Li
 - Da Peng
