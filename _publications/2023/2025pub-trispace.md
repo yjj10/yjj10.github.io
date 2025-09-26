@@ -2,7 +2,7 @@
 title:          "Taming the Tri-Space Tension: ARC-Guided Hallucination Modeling and Control for Text-to-Image Generation"
 date:           2025-07-24 00:01:00 +0800
 selected:       true
-pub:            "AAAI 2026 (Under Review)"
+pub:            "ICLR 2026 (Under Review)"
 pub_date:       "2025"
 abstract: >-
   Despite remarkable progress in image quality and fidelity, text-to-image (T2I) diffusion models continue to
@@ -14,7 +14,7 @@ abstract: >-
   providing a unified and interpretable approach for controllable text-to-image generation.
 cover:          /assets/images/photos/trispace.jpg
 authors:
-- "Jianjiang Yang* (first author)"
+- "Jianjiang Yang* "
 - Ziyan Huang
 - Yanshu Li
 - Huaiyuan Yao
