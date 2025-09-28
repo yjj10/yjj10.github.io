@@ -10,3 +10,4 @@ group: Precious Moments
   <img src="{{ 'assets/images/travel/IMG_8033.jpeg' | relative_url }}" class="img-fluid rounded-xl">
   <img src="{{ 'assets/images/travel/IMG_8034.jpeg' | relative_url }}" class="img-fluid rounded-xl">
 </div>
+
