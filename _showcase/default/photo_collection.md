@@ -1,17 +1,17 @@
 ---
 show: true
-width: 4
-date: 2021-09-12 00:01:00 +0800
-height: 295px
+width: 12
+date: 2020-09-28 00:01:00 +0800
+height: 400px
 images:
-- src: /assets/images/travel/norway.jpg
-   
-- src: /assets/images/travel/london.jpg
+  - src: /assets/images/travel/IMG_3550.JPG
     
-- src: /assets/images/travel/kyoto.jpg
+  - src: /assets/images/travel/IMG_3552.JPG
     
-- src: /assets/images/travel/paris.jpg
+  - src: /assets/images/travel/IMG_3568.JPG
     
-- src: /assets/images/travel/italy.jpg
-   
+  - src: /assets/images/travel/IMG_3569.JPG
+    
+---
+
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}
