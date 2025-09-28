@@ -1,6 +1,6 @@
 ---
 show: true
-width: 12
+width: 8
 date: 2020-09-28 00:01:00 +0800
 height: 400px
 images:
