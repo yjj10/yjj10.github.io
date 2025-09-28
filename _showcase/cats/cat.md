@@ -2,7 +2,7 @@
 show: true
 width: 3
 date: 2020-01-12 00:01:00 +0800
-group: Cats
+group: moment
 ---
 <div>
 <img src="{{ 'assets/images/travel/london.jpg' | relative_url }}" class="img-fluid rounded-xl" >
