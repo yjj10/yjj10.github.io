@@ -1,9 +1,9 @@
 ---
 show: true
-width: 12
-date: 2025-01-01 00:01:00 +0800
-group: Travel
-title: Travel
+width: 12              # 占满一行；如果想跟猫卡一样宽可改成 3 或 4
+date: 2020-01-01 00:01:00 +0800   # 给个更“旧”的时间，这样会排在 Cats 现有卡片之后
+group: Cats            # 关键：并入 Cats 分组
+title: Travel          # 这里只是卡片内部的小标题，不会再生成新的大组标题
 ---
 
 <div class="p-3">
@@ -34,7 +34,7 @@ title: Travel
         alt="Kyoto">
     </div>
 
-   <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+  <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
       <img
         data-src="{{ '/assets/images/travel/paris.jpg' | relative_url }}"
         src="{{ '/assets/images/empty_300x200.png' | relative_url }}"
@@ -52,4 +52,3 @@ title: Travel
 
   </div>
 </div>
-
