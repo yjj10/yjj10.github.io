@@ -1,10 +1,13 @@
 ---
-show: false
+show: true
 width: 3
-date: 2019-01-12 00:01:00 +0800
-group: Cats
+date: 2020-01-12 00:01:00 +0800
+group: moment
 ---
-<div>
-    <img data-src="{{ site.data.profile.portrait_url | relative_url }}" class="lazy w-100 rounded-xl" src="{{ '/assets/images/empty_300x200.png' | relative_url }}">
-</div>
 
+<div>
+  <img src="{{ 'assets/images/travel/IMG_37819.jpeg' | relative_url }}" class="img-fluid rounded-xl" >
+  <img src="{{ 'assets/images/travel/IMG_43769.jpeg' | relative_url }}" class="img-fluid rounded-xl" >
+  <img src="{{ 'assets/images/travel/IMG_54239.jpeg' | relative_url }}" class="img-fluid rounded-xl" >
+  <img src="{{ 'assets/images/travel/IMG_56729.jpeg' | relative_url }}" class="img-fluid rounded-xl" >
+<div>
