@@ -18,7 +18,7 @@ github: edi1009
 
 short_bio_text_justify: false
 short_bio: >-
- <p>  
+<p>  
   🎓 I am currently pursuing a <b>Master’s in Computer Science (Global Transfer Program)</b> at the University of Bristol. 
 <p>  
   🔬 My research interests focus on <b>Multimodal Large Language Models (MLLMs)</b>, <b>agents</b>, <b>Parameter-Efficient Fine-Tuning (PEFT)</b>, and <b>Continual Learning (CL)</b>. I am particularly passionate about building intelligent systems that balance adaptability and scalability while sustaining long-term memory and evolution. I believe these explorations form the foundation for advancing AI toward greater generality and trustworthiness.  
