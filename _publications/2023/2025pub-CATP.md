@@ -22,7 +22,7 @@ abstract: >-
   Meanwhile, it effectively improves efficiency by achieving an average reduction of 10.78% in inference 
   latency. CATP enhances the practical value of multimodal ICL and lays the groundwork for future progress 
   in interleaved image-text scenarios.
-cover: /assets/images/photos/catp.jpg
+cover: /assets/images/photos/catp.png
 authors:
   - "Yanshu Li* (co-first author)"
   - "Jianjiang Yang* (co-first author)"
