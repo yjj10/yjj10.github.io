@@ -21,6 +21,7 @@ abstract: >-
   deployable solution with minimal training cost. Positioned at the intersection of uncertainty quantification 
   and explainable AI, ECHO improves both the reliability and transparency of multimodal reasoning tasks.
 cover: /assets/images/photos/echo.jpg
+cover:          /assets/images/photos/echo.png
 authors:
   - "Jianjiang Yang*"
   - Ziyan Huang
