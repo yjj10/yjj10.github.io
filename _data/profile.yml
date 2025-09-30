@@ -18,25 +18,16 @@ github: edi1009
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>
-    I am a researcher in Artificial Intelligence, with a primary focus on 
-    <b>multimodal large language models (MLLMs)</b> and <b>intelligent agents</b>.
-  </p>
+ <p>  
+  🎓 I am currently pursuing a <b>Master’s in Computer Science (Global Transfer Program)</b> at the University of Bristol. 
+<p>  
+  🔬 My research interests focus on <b>Multimodal Large Language Models (MLLMs)</b>, <b>agents</b>, <b>Parameter-Efficient Fine-Tuning (PEFT)</b>, and <b>Continual Learning (CL)</b>. I am particularly passionate about building intelligent systems that balance adaptability and scalability while sustaining long-term memory and evolution. I believe these explorations form the foundation for advancing AI toward greater generality and trustworthiness.  
+</p>  
 
-  <p>
-    My research emphasizes <b>parameter-efficient fine-tuning (PEFT)</b> and 
-    <b>continual learning (CL)</b>, integrating these methods into principled frameworks 
-    for large-scale model development. Through this work, I aim to establish 
-    training methodologies that enable the long-term evolution and adaptability 
-    of multimodal systems.
-  </p>
+<p>  
+  🌍 My ultimate goal is to witness the birth of <b>true Artificial General Intelligence (AGI)</b> through research. I envision AI not merely as a tool, but as a transformative force that reshapes society—ensuring that technological progress genuinely benefits all. From access to food, housing, and clothing to improvements in education, healthcare, and social equity, I aspire for AI to help humanity move toward a more prosperous, equitable, and fulfilling future.  
+</p>
 
-  <p>
-    Looking ahead, I am committed to advancing the broader vision of 
-    <b>Human-centered AI</b>, developing models that not only achieve adaptability 
-    and reliability but also foster interpretability and deep alignment with 
-    human values and decision-making processes.
-  </p>
 
 portrait_url: /assets/images/photos/yang.jpg
 portrait_caption: >-
