@@ -19,7 +19,7 @@ abstract: >-
   also activate the desired effects of prompt engineering methods and remains robust under diverse 
   sequence configurations. Thus, CAMA paves the way for deeper explorations of attention dynamics to 
   advance multimodal reasoning.
-cover: /assets/images/photos/cama.jpg
+cover: /assets/images/photos/cama.png
 authors:
   - "Yanshu Li* (co-first author)"
   - "Jianjiang Yang* (co-first author)"
