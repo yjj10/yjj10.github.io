@@ -2,7 +2,7 @@
 title: "CATP: Contextually Adaptive Token Pruning for Efficient and Enhanced Multimodal In-Context Learning"
 date: 2025-08-23 00:01:00 +0800
 selected: true
-pub: "AAAI 2026 (Under Review)"
+pub: "AAAI 2026 (2nd-round Review)"
 pub_date: "2026"
 abstract: >-
   Modern large vision-language models (LVLMs) convert each input image into a large set of tokens, 
