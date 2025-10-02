@@ -2,7 +2,7 @@
 title:          "Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey and Benchmark"
 date:           2024-02-05 00:01:00 +0800
 selected:       true
-pub:            "IEEE @ TPAMI (Major Revision)"
+pub:            "IEEE @ TPAMI (under review)"
 pub_date:       "2024"
 abstract: >-
   This paper presents a comprehensive survey of the latest advancements in parameter-efficient fine-tuning (PEFT)
