@@ -2,7 +2,7 @@
 title: "Can We Separate 'What I See' from 'What I Infer'? Rethinking Hallucinations and Uncertainty in MLLMs with ECHO"
 date: 2025-07-24 00:01:00 +0800
 selected: true
-pub: "AAAI 2026 (Under Review)"
+pub: "AAAI 2026 (2nd-round Review)"
 pub_date: "2026"
 abstract: >-
   Multimodal Large Language Models excel at generalizing across tasks, however, they face significant 
