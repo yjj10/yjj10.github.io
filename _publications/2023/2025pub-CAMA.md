@@ -2,7 +2,7 @@
 title: "CAMA: Enhancing Multimodal In-Context Learning with Context-Aware Modulated Attention"
 date: 2025-05-23 00:01:00 +0800
 selected: true
-pub: "AAAI 2026 (Under Review)"
+pub: "AAAI 2026 (2nd Review)"
 pub_date: "2026"
 abstract: >-
   Multimodal in-context learning (ICL) is emerging as a key capability that enables large vision-language 
