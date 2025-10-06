@@ -19,5 +19,6 @@ authors:
 - Yanshu Li
 - Huaiyuan Yao
 - Da Peng
-
+links:
+  Paper (arXiv):arXiv preprint arXiv:2507.04946
 ---
