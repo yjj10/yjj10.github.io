@@ -20,5 +20,5 @@ authors:
 - Huaiyuan Yao
 - Da Peng
 links:
-  Paper (arXiv):arXiv preprint arXiv:2507.04946
+  Paper (arXiv):https://arxiv.org/abs/2507.04946
 ---
