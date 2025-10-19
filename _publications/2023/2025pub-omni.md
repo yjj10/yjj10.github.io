@@ -9,7 +9,7 @@ abstract: >-
   We introduce **OmniHallu**, a unified hallucination detection and evaluation framework designed to generalize across both comprehension and generation tasks, spanning text, image, video, and audio modalities.  
   OmniHallu integrates **OmniHallu-Bench**, a large-scale benchmark for cross-modal hallucination analysis, and a **multi-agent verification architecture** that decomposes and validates multimodal reasoning chains.  
   Extensive experiments demonstrate the framework’s superior interpretability, generalization, and robustness, paving the way for trustworthy multimodal intelligence.
-cover: /assets/images/photos/omnihallu.jpg
+cover: /assets/images/photos/omnihallu.png
 authors:
   - "Jianjiang Yang (First Author)"
   - "Peihang Li"
