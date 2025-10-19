@@ -20,6 +20,5 @@ authors:
   - "Dong Huang"
   - "Meng Luo"
 links:
-  PDF: /assets/papers/OmniHallu.pdf
 ---
 
