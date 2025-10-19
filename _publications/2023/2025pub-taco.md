@@ -13,8 +13,8 @@ abstract: >-
   These results highlight task mapping as a valuable perspective for improving multimodal ICL.
 cover:          /assets/images/photos/taco.jpg
 authors:
-- "Yanshu Li (co-first author)"
-- "Jianjiang Yang* (co-first author)"
+- "Yanshu Li"
+- "Jianjiang Yang*"
 - "Tian Yun"
 - "Pinyuan Feng"
 - "Jinfa Huang"
