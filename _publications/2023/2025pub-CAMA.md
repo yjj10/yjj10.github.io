@@ -2,7 +2,7 @@
 title: "CAMA: Enhancing Multimodal In-Context Learning with Context-Aware Modulated Attention"
 date: 2025-05-23 00:01:00 +0800
 selected: true
-pub: "AAAI 2026 (2nd-round Review)"
+pub: "AAAI 2026 Oral （accepted）"
 pub_date: "2026"
 abstract: >-
   Multimodal in-context learning (ICL) is emerging as a key capability that enables large vision-language 
@@ -21,8 +21,8 @@ abstract: >-
   advance multimodal reasoning.
 cover: /assets/images/photos/cama.png
 authors:
-  - "Yanshu Li* (co-first author)"
-  - "Jianjiang Yang* (co-first author)"
+  - "Yanshu Li"
+  - "Jianjiang Yang*"
   - Ziteng Yang
   - Bozheng Li
   - Hongyang He
