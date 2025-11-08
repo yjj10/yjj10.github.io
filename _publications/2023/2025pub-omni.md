@@ -2,7 +2,7 @@
 title: "OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models"
 date: 2025-01-15 00:01:00 +0800
 selected: true
-pub: "Preparing for CVPR 2026 Submission"
+pub: "Preparing for ACL 2026 Submission"
 pub_date: "2026"
 abstract: >-
   Multimodal Large Language Models (MLLMs) have made significant progress but remain prone to hallucinations that contradict input semantics.  
