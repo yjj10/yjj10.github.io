@@ -19,9 +19,14 @@ gscholar: lCYsNwIAAAAJ   # This is an example, replace it with your own Google S
 short_bio_text_justify: false
 short_bio: >-
 short_bio: |-
-  <p>🎓 I am 20 years old and currently pursuing a <b>Master's in Computer Science (Global Transfer Programme)</b> at the University of Bristol.</p>
-  <p>🧪 My research interests focus on <b>Multimodal Large Language Models (MLLMs)</b>, <b>agents</b>, <b>Parameter-Efficient Fine-Tuning (PEFT)</b>, and <b>Continual Learning (CL)</b>.</p>
-  <p>🌍 My ultimate goal is to witness the birth of <b>true Artificial General Intelligence (AGI)</b> and to use AI to drive meaningful social improvement so that technology truly benefits everyone.</p>
+  <p>🎓 I am 21 years old and currently pursuing an <b>MSc in Computer Science (Global Transfer Programme)</b> at the University of Bristol.</p>
+
+<p>🧪 My research centers on <b>reliable multimodal intelligence</b>: building and evaluating <b>Multimodal Large Language Models (MLLMs)</b> that can <b>reason consistently</b>, <b>reduce hallucinations</b>, and <b>quantify uncertainty</b> under challenging or missing visual evidence.</p>
+
+<p>⚙️ Methodologically, I work on <b>efficient adaptation and deployment</b> (e.g., <b>PEFT</b>), as well as <b>continual / long-horizon learning</b> for systems that remain robust as tasks, context, and data distributions evolve.</p>
+
+<p>🌍 I aim to advance trustworthy AI that is not only powerful, but also <b>transparent</b> and <b>useful</b>—so that progress in AI translates into meaningful social impact.</p>
+
 
 portrait_url: /assets/images/photos/yang.jpg
 portrait_caption: >-
